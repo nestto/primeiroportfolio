@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/125527244/225323580-a016bc9c-a3c2-415a-9213-4634e5ef8431.jpg" width="60%">
+<img src="https://user-images.githubusercontent.com/125527244/225323580-a016bc9c-a3c2-415a-9213-4634e5ef8431.jpg">
 
 Desenvolvido com o curso de HTML e CSS da Alura.
 ### 🔨 Funcionalidades do projeto
