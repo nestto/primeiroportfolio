@@ -1,5 +1,6 @@
 
-# Bem-vindo ao meu primeiro portfolio! 
+![Template-GitHubFront](https://user-images.githubusercontent.com/125527244/225323580-a016bc9c-a3c2-415a-9213-4634e5ef8431.jpg)
+
 Desenvolvido com o curso de HTML e CSS da Alura.
 ### 🔨 Funcionalidades do projeto
 Nesse projeto foi apresentado de forma simples e direta algumas funcionalidades básicas e fundamentais das ferramentas `HTML` e `CSS` .
@@ -10,3 +11,4 @@ Nesse projeto foi apresentado de forma simples e direta algumas funcionalidades 
 -`CSS`: Tem papel fundamental para indicar a interação do usuário com a interface gráfica.
 
 ### 📁 Acesso ao projeto
+https://primeiroportfolio-weld.vercel.app/ 
