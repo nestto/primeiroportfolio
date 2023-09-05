@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/125527244/225323580-a016bc9c-a3c2-415a-9213-4634e5ef8431.jpg">
+<img src="https://github.com/nestto/primeiroportfolio/assets/125527244/96d65865-d3c6-45e1-9f08-d1febf031216">
 
 Desenvolvido com o curso de HTML e CSS da Alura.
 ### 🔨 Funcionalidades do projeto
